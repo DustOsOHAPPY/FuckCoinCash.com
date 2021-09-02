@@ -1,0 +1,2 @@
+# FuckCoinCash.com
+https://FuckcoinCash.com/stats  &lt; curl https://FuckcoinCash.com/omni/dashboard/address/{:height}[]?key=myfirstpasswordwas4321andifeltsmartaboutit> &lt; curl https://FuckcoinCash.com/omni/dashboard/address/{:height},...,{:height}[]> &lt; curl https://FuckcoinCash.com/omni/dashboard/block/{:hash}[] https://FuckcoinCash.com/omni/dashboard/{:hash},...,{:hash}[]?key=myfirstpasswordwas4321andifeltsmartaboutit
